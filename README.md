@@ -13,17 +13,17 @@ The first print reference to "noughts and crosses," the British name for the gam
 <h2>Mandatory Features</h2>
 <ul>
 
-<li>
+
 ![alt text](https://lh4.googleusercontent.com/2BxcMmadaOfWqsxBE3iUcGkSu09ltjiiyZRVhwMCzvCK9zn2D4pk8rUsQYVJ-fRr5TfGY-uvJ4EVRbLsry3s=w1920-h977)
-</li>
 
-<li>
+
+
 ![alt text](https://lh6.googleusercontent.com/Yma1OSwMjsDtzAtQnkfUPqpxxu5LT6vOFGoToiDxETVwn7_sdBZVH6FwqcW7JBsn5Uswv-g4A2NdUgWaVDzY=w1920-h977)
-</li>
 
-<li>
+
+
 ![alt text](https://lh5.googleusercontent.com/G7EZG5s6jNAq7OgdgxKXBvLrmhWRNDJ1HyEcutEVBBhwnprMRS1QKQYjxqOkzrYTOYfVw6RfIYJ1cRZNdv_U=w1920-h977)
-</li>
+
 
 
 
@@ -39,9 +39,9 @@ The first print reference to "noughts and crosses," the British name for the gam
 Pedro tiene 53 hermanos. ✓
 </li>
 
-<li>
-Twittear "me encanta #javascript" [link](https://twitter.com/Aldair47x/status/1316088153292394496). ✓
-</li>
+
+Twittear "me encanta #javascript" - [Link](https://twitter.com/Aldair47x/status/1316088153292394496). ✓
+
 
 
 </ul>
