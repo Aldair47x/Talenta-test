@@ -14,15 +14,15 @@ The first print reference to "noughts and crosses," the British name for the gam
 <ul>
 
 <li>
-![alt text](https://drive.google.com/file/d/1R7yDaKRoAPlkEXy9iGygP47pnYE8P4hm/view?usp=sharing)
+![alt text](https://lh4.googleusercontent.com/2BxcMmadaOfWqsxBE3iUcGkSu09ltjiiyZRVhwMCzvCK9zn2D4pk8rUsQYVJ-fRr5TfGY-uvJ4EVRbLsry3s=w1920-h977)
 </li>
 
 <li>
-![alt text](https://drive.google.com/file/d/1_fuKi4tyg0KtCvrMYZHsdZdsSH9rxoZT/view?usp=sharing)
+![alt text](https://lh6.googleusercontent.com/Yma1OSwMjsDtzAtQnkfUPqpxxu5LT6vOFGoToiDxETVwn7_sdBZVH6FwqcW7JBsn5Uswv-g4A2NdUgWaVDzY=w1920-h977)
 </li>
 
 <li>
-![alt text](https://drive.google.com/file/d/1VBpY8X1XWWNH4JevJbBby2iAGkgXCPYM/view?usp=sharing)
+![alt text](https://lh5.googleusercontent.com/G7EZG5s6jNAq7OgdgxKXBvLrmhWRNDJ1HyEcutEVBBhwnprMRS1QKQYjxqOkzrYTOYfVw6RfIYJ1cRZNdv_U=w1920-h977)
 </li>
 
 
