@@ -75,6 +75,8 @@ Twittear "me encanta #javascript" - [Link](https://twitter.com/Aldair47x/status/
 
 * **alexdevero.com** - *How to Build Simple Tic Tac Toe Game with React* - [Link](https://blog.alexdevero.com/how-to-build-simple-tic-tac-toe-game-with-react/)
 
+* **medium.com** - *Restful API with NodeJS, Express, PostgreSQL, Sequelize, Travis, Mocha, Coveralls and Code Climate.* - [Link](https://medium.com/@victorsteven/restful-api-with-nodejs-express-postgresql-sequelize-travis-mocha-coveralls-and-code-climate-f28715f7a014)
+
 Follow me! – [aldair47x@Twitter](https://twitter.com/aldair47x) – aldair47x@gmail.com
 
 ## License
